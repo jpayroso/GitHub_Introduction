@@ -10,3 +10,7 @@ Gengar
 Infernape
 Togekiss
 Electivire
+------------
+Gyarados
+Pikachu
+Ditto
