@@ -6,3 +6,7 @@ Lucario
 Staraptor
 Empoleon
 Gengar
+------------
+Infernape
+Togekiss
+Electivire
